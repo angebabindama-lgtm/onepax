@@ -1,7 +1,7 @@
 package org.dador;
 
 /**
- *
+ *Arnaud Guy & Babindama Ange
  */
 public class MultiTimePad {
 
